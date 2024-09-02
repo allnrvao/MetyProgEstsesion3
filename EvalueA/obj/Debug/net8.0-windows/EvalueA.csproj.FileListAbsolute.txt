@@ -1,0 +1,16 @@
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\bin\Debug\net8.0-windows\EvalueA.exe
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\bin\Debug\net8.0-windows\EvalueA.deps.json
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\bin\Debug\net8.0-windows\EvalueA.runtimeconfig.json
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\bin\Debug\net8.0-windows\EvalueA.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\bin\Debug\net8.0-windows\EvalueA.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.AssemblyInfoInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.AssemblyInfo.cs
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\refint\EvalueA.dll
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.pdb
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\EvalueA.genruntimeconfig.cache
+C:\Users\jpnic\OneDrive\Desktop\uni\segundo semestre\Metodologia y programacion estructurada\repositorio semana 3\EvalueA\obj\Debug\net8.0-windows\ref\EvalueA.dll
